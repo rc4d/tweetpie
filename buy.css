@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+   }
+   input[type=text] {
+    width: 100%;
+    margin-bottom: 20px;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
